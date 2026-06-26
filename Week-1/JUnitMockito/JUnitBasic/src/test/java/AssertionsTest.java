@@ -26,3 +26,4 @@ public class AssertionsTest {
         assertNotNull(new Object());
     }
 }
+
